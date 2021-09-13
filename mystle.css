@@ -1,0 +1,42 @@
+body {
+      text-align: center;
+
+      background-size: cover;
+      background-position: center;
+      Color:black;
+      font-family: "Papyrus","Fantasy";
+    }
+p{
+      font-size: 22px;
+    }
+    input{
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: pink;
+      color: black;
+      border: 3px solid black;
+    }
+div {
+  padding-top: 40px;
+  padding-right: 30px;
+  padding-left: 40px;
+ 
+}
+input[type=text] {
+  width: 20%;
+  padding: 8px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid black;
+}
+input[type=email]{
+ width: 20%;
+  padding: 8px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid black;
+}
+
